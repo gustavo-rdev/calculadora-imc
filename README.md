@@ -1,2 +1,2 @@
-# learning
-Projects that I'm doing/did while learning programming languages
+# calculadora de imc
+Calculadora de IMC. Feita em Flutter.
