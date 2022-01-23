@@ -1,9 +1,3 @@
 # calculadora_imc
 
-Projeto feito em flutter
-
-
-
-(https://flutter.dev/docs/get-started/codelab)
-(https://flutter.dev/docs/cookbook)
-(https://flutter.dev/docs)
+My intention with this project was to learn how to develop cross platform apps. This an app that lets the user inputs his measures to calculate its BMI.
