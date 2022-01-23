@@ -1,2 +1,2 @@
-# calculadora de imc
-Calculadora de IMC. Feita em Flutter.
+# Flutter BMI calculator
+My intention with this project was to learn how to develop cross platform apps. This an app that lets the user inputs his measures to calculate its BMI.
